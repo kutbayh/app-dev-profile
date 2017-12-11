@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  dev-profile
 //
-//  Created by Hüseyin on 11.12.2017.
-//  Copyright © 2017 Hüseyin. All rights reserved.
+//  Created by Mark Price on 6/16/17.
+//  Copyright © 2017 Devslopes. All rights reserved.
 //
 
 import UIKit
